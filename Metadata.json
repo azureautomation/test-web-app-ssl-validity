@@ -1,0 +1,20 @@
+{
+    "Author": "Nemanja.Jovic",
+    "ContentSize": 2330,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/test-web-app-ssl-validity/master/Test-WebAppSslValidity.ps1",
+    "DownloadCount": 339,
+    "Id": "Test-Web-App-SSL-validity-1c7f9f2c",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 214,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-10-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Since on Microsoft Azure Cloud platform testing of Web App SSL validity as a check is still not available out of the box, I came up with this simple function which is reporting the validity of the Web App certificate. Function will fetch all SSL certificates, make sure they're",
+    "Title": "Test Web App SSL validity",
+    "UpdatedDate": "2019-10-10T00:00:00",
+    "Url": "https://github.com/azureautomation/test-web-app-ssl-validity",
+    "UserTags": "Microsoft Azure, Azure Automation, Azure Web Apps"
+}
